@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 
 
-<!--
-**RYANFABRYCIOBERNARDO/ryanfabryciobernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e ryan fabrycio bernardo
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou dessenvolvendo javascript com ajuda do alura
+- Estou usando o github para compartilhar meus projeto para o professor do alura
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comgo 🐱‍👤
+
+ryanbernardo11014@gmail.com
+
+![](https://media.tenor.com/go5H11uCkTkAAAAi/messi-te%C5%9Fekk%C3%BCr-ederiz-png.gif)
